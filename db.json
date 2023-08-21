@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "authentication": [
+    {
+      "fullname": "Utkarsh",
+      "email": "ut.gupta29@gmail.com",
+      "mobile": "999999999",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullname": "priyanshi",
+      "email": "priyanshi.gmail.com",
+      "mobile": "8445585472",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "fullname": "priyanshi",
+      "email": "priyanshi@gmail.com",
+      "mobile": "1234567890",
+      "password": "1234",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
